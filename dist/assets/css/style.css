@@ -15469,3 +15469,11 @@ footer .copyright-social ul li:last-child {
 .pricing-palden .pricing-item--featured .pricing-deco {
   padding: 5em 0 8.885em 0;
 }
+
+.Services-List li{
+  padding-top: 10px;
+}
+
+.see-more{
+  color: #ff2500;
+}
